@@ -1,0 +1,15 @@
+C:\Users\Dell\Shah'sApp\bin\Debug\net6.0\Shah'sApp.exe
+C:\Users\Dell\Shah'sApp\bin\Debug\net6.0\Shah'sApp.deps.json
+C:\Users\Dell\Shah'sApp\bin\Debug\net6.0\Shah'sApp.runtimeconfig.json
+C:\Users\Dell\Shah'sApp\bin\Debug\net6.0\Shah'sApp.dll
+C:\Users\Dell\Shah'sApp\bin\Debug\net6.0\Shah'sApp.pdb
+C:\Users\Dell\Shah'sApp\obj\Debug\net6.0\Shah'sApp.csproj.AssemblyReference.cache
+C:\Users\Dell\Shah'sApp\obj\Debug\net6.0\Shah'sApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Shah'sApp\obj\Debug\net6.0\Shah'sApp.AssemblyInfoInputs.cache
+C:\Users\Dell\Shah'sApp\obj\Debug\net6.0\Shah'sApp.AssemblyInfo.cs
+C:\Users\Dell\Shah'sApp\obj\Debug\net6.0\Shah'sApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Shah'sApp\obj\Debug\net6.0\Shah'sApp.dll
+C:\Users\Dell\Shah'sApp\obj\Debug\net6.0\refint\Shah'sApp.dll
+C:\Users\Dell\Shah'sApp\obj\Debug\net6.0\Shah'sApp.pdb
+C:\Users\Dell\Shah'sApp\obj\Debug\net6.0\Shah'sApp.genruntimeconfig.cache
+C:\Users\Dell\Shah'sApp\obj\Debug\net6.0\ref\Shah'sApp.dll
